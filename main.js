@@ -35,7 +35,7 @@ var math = high - low;
 // 6.
 // What is `math` set to?
 math = high - "5";
-// A: operator error
+// A: 35
 
 
 // 7.
